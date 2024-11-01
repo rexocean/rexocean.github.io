@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/index.html
+permalink: /rooter/blogs/index.html
 title: Blogs
 ---
 
@@ -8,12 +8,12 @@ title: Blogs
 
 ### 2024
 
-- [测试24](https://rexocean.github.io/blogs/blogs/24fall/)
+- [测试文章2](https://rexocean.github.io/blogs/test2/)
 
 
 ### 2020
 
-- [测试18🎂](https://rexocean.github.io/blogs/18yrs)<br>
+- [测试文章1](https://rexocean.github.io/blogs/test1)<br>
 
 <br>
 
