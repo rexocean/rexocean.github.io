@@ -37,15 +37,15 @@ owner:
 # For external links add external: true
 links:
   - title: About Me
-    url: /router/index
+    url: /index
   # - title: Publications
     # url: /publications/
   # - title: Awards
     # url: /awards/
   - title: Hobbies
-    url: /router/hobbies/
+    url: /hobbies/
   - title: Blogs
-    url: /router/blogs/
+    url: /blogs/
   # - title: Teams
     # url: /teams/
 

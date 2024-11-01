@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /rooter/hobbies/index.html
+permalink: /hobbies/index.html
 title: Hobbies
 ---
 

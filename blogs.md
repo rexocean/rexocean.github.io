@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /rooter/blogs/index.html
+permalink: /blogs/index.html
 title: Blogs
 ---
 
