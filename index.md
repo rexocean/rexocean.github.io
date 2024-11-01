@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://rexocean.github.io/router/mia.jpg" class="floatpic">
+<img src="https://rexocean.github.io/mia.jpg" class="floatpic">
 
 欢迎来到我的blog(Fayy)
 
